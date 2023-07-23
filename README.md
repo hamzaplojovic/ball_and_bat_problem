@@ -27,6 +27,6 @@ To run the script, use the following command:
 
 python main.py
 
-You will be prompted to enter the total cost of the ball and the bat. After entering the total cost, the script will display the cost of each item.
+You will be prompted to enter the total cost of the ball and the bat, and the difference between the cost of the ball and the bat. After entering the total cost, the script will display the cost of each item.
 
 **Please replace the usage and solution sections with the actual details from your main.py file if they differ.**
